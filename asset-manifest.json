@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5327ee9.css",
-    "main.js": "/static/js/main.c8387222.js",
-    "static/media/settings.png": "/static/media/settings.9ad44d4a181860fc74c4.png",
-    "static/media/help.png": "/static/media/help.c79da3d56c98539c49b4.png",
-    "index.html": "/index.html",
-    "static/media/x-solid.svg": "/static/media/x-solid.ec04d141eb5808a2005821ddcc5413b0.svg",
-    "main.b5327ee9.css.map": "/static/css/main.b5327ee9.css.map",
-    "main.c8387222.js.map": "/static/js/main.c8387222.js.map"
+    "main.css": "/Wordle/static/css/main.b5327ee9.css",
+    "main.js": "/Wordle/static/js/main.e4eb4100.js",
+    "static/media/settings.png": "/Wordle/static/media/settings.9ad44d4a181860fc74c4.png",
+    "static/media/help.png": "/Wordle/static/media/help.c79da3d56c98539c49b4.png",
+    "index.html": "/Wordle/index.html",
+    "static/media/x-solid.svg": "/Wordle/static/media/x-solid.ec04d141eb5808a2005821ddcc5413b0.svg",
+    "main.b5327ee9.css.map": "/Wordle/static/css/main.b5327ee9.css.map",
+    "main.e4eb4100.js.map": "/Wordle/static/js/main.e4eb4100.js.map"
   },
   "entrypoints": [
     "static/css/main.b5327ee9.css",
-    "static/js/main.c8387222.js"
+    "static/js/main.e4eb4100.js"
   ]
 }
